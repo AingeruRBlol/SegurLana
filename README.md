@@ -5,7 +5,7 @@ Taldekideak: Aingeru Ruiz, Álvaro Dono, Yeray López eta Unai González.
 DOCKER BIDEZ HEDATZEKO INSTRUKZIOAK:
 
 Gure proiektua daukan GitHub biltegia klonatu edo jaitsi:
-1. $ git clone https://github.com/AingeruRBlol/SegurLana
+1. $ git clone https://github.com/AingeruRBlol/SegurLana.git
 
 Aurretik Docker esta Docker-compose instalatuta izanez:
 
