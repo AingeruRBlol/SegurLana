@@ -6,9 +6,11 @@ DOCKER BIDEZ HEDATZEKO INSTRUKZIOAK:
 
 Gure proiektua daukan GitHub biltegia klonatu edo jaitsi:
 1. $ git clone https://github.com/AingeruRBlol/SegurLana
+
 Aurretik Docker esta Docker-compose instalatuta izanez:
 2. sudo apt install docker
 3. sudo apt isntall docker-compose
+
 Gero, Ubuntu kontsolan:
 4. Proiektuaren karpeta barruan kokatu terminalaren bidez (SegurLana barruan).
 5. Behin barruan, docker build -t="web" . komandoa exekutatu.
