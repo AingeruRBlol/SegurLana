@@ -13,6 +13,7 @@ Aurretik Docker esta Docker-compose instalatuta izanez:
 3. sudo apt isntall docker-compose
 
 Gero, Ubuntu kontsolan:
+
 4. Proiektuaren karpeta barruan kokatu terminalaren bidez (SegurLana barruan).
 
 5. Behin barruan, docker build -t="web" . komandoa exekutatu.
