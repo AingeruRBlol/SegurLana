@@ -9,8 +9,8 @@ Gure proiektua daukan GitHub biltegia klonatu edo jaitsi:
 
 Aurretik Docker esta Docker-compose instalatuta izanez:
 
-2. sudo apt install docker
-3. sudo apt install docker-compose
+2. $ sudo apt install docker
+3. $ sudo apt install docker-compose
 
 Gero, Ubuntu kontsolan:
 
