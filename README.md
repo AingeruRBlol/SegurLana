@@ -16,7 +16,7 @@ Gero, Ubuntu kontsolan:
 
 4. Proiektuaren karpeta barruan kokatu terminalaren bidez (SegurLana barruan).
 
-5. Behin barruan, docker build -t="web" . komandoa exekutatu.
+5. Behin barruan, $ sudo docker build -t="web" . komandoa exekutatu.
    
 6. Behin aurreko komando amaituta, docker-compose up komandoa exekutatu.
    
