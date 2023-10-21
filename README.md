@@ -20,9 +20,8 @@ Gero, Ubuntu kontsolan:
    
 6. Behin aurreko komando amaituta, docker-compose up komandoa exekutatu.
    
-7. PHPMyAdmin-en (http://localhost:8890), datu basea inportatu lan karpetako database.sql fitxategia hautatuz.
+7. PHPMyAdmin-en (http://localhost:8890, erabiltzailea: admin eta pasahitza: test izanez), datu basea inportatu lan karpetako database.sql fitxategia hautatuz.
     
 8. Aurreko lau pausoak egindakoan, http://localhost:81 helbidean sartuz gero web orria agertuko da, index.php fitxategia.
     
 9. Web orriarekin amaitutakoan, beste terminal bat zabaldu eta docker-compose down komando exekutatu.
-    
