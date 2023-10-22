@@ -1,5 +1,6 @@
 # SegurLana
-Erabili beharreko materiala entrega_2 brach-ean dago eskuragarri.
+Erabili beharreko materiala entrega_2 branch-ean dago eskuragarri.
+
 Taldekideak: Aingeru Ruiz, Álvaro Dono, Yeray López eta Unai González.
 
 DOCKER BIDEZ HEDATZEKO INSTRUKZIOAK:
