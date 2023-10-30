@@ -19,7 +19,7 @@ Gero, Ubuntu kontsolan:
 
 5. Behin barruan, $ sudo docker build -t="web" . komandoa exekutatu.
    
-6. Behin aurreko komando amaituta, docker-compose up komandoa exekutatu.
+6. Behin aurreko komando amaituta, docker-compose up komandoa exekutatu (aurretik beste edozein Docker prozesu bat aktibatuta izanez ($ docker ps komandoa erabiliz begiratu ahal dira exekutatzen ari diren beste prozesuak), dagokion karpetan sartu eta hau desaktibatu $ docker-compose down eginez).
    
 7. PHPMyAdmin-en (http://localhost:8890, erabiltzailea: admin eta pasahitza: test izanez), datu basea inportatu lan karpetako database.sql fitxategia hautatuz.
     
